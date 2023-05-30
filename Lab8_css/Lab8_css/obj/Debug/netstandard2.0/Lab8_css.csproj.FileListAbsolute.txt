@@ -1,0 +1,32 @@
+D:\5to ciclo\Aplicaciones moviles multiplataforma\sem8\Lab8_css\Lab8_css\Lab8_css\bin\Debug\netstandard2.0\Lab8_css.deps.json
+D:\5to ciclo\Aplicaciones moviles multiplataforma\sem8\Lab8_css\Lab8_css\Lab8_css\bin\Debug\netstandard2.0\Lab8_css.dll
+D:\5to ciclo\Aplicaciones moviles multiplataforma\sem8\Lab8_css\Lab8_css\Lab8_css\bin\Debug\netstandard2.0\Lab8_css.pdb
+D:\5to ciclo\Aplicaciones moviles multiplataforma\sem8\Lab8_css\Lab8_css\Lab8_css\obj\Debug\netstandard2.0\Lab8_css.csproj.AssemblyReference.cache
+D:\5to ciclo\Aplicaciones moviles multiplataforma\sem8\Lab8_css\Lab8_css\Lab8_css\obj\Debug\netstandard2.0\Lab8_css.GeneratedMSBuildEditorConfig.editorconfig
+D:\5to ciclo\Aplicaciones moviles multiplataforma\sem8\Lab8_css\Lab8_css\Lab8_css\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\5to ciclo\Aplicaciones moviles multiplataforma\sem8\Lab8_css\Lab8_css\Lab8_css\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\5to ciclo\Aplicaciones moviles multiplataforma\sem8\Lab8_css\Lab8_css\Lab8_css\obj\Debug\netstandard2.0\Styles\Styles.css.g.cs
+D:\5to ciclo\Aplicaciones moviles multiplataforma\sem8\Lab8_css\Lab8_css\Lab8_css\obj\Debug\netstandard2.0\Lab8_css.AssemblyInfoInputs.cache
+D:\5to ciclo\Aplicaciones moviles multiplataforma\sem8\Lab8_css\Lab8_css\Lab8_css\obj\Debug\netstandard2.0\Lab8_css.AssemblyInfo.cs
+D:\5to ciclo\Aplicaciones moviles multiplataforma\sem8\Lab8_css\Lab8_css\Lab8_css\obj\Debug\netstandard2.0\Lab8_css.csproj.CoreCompileInputs.cache
+D:\5to ciclo\Aplicaciones moviles multiplataforma\sem8\Lab8_css\Lab8_css\Lab8_css\obj\Debug\netstandard2.0\XamlC.stamp
+D:\5to ciclo\Aplicaciones moviles multiplataforma\sem8\Lab8_css\Lab8_css\Lab8_css\obj\Debug\netstandard2.0\Lab8_css.dll
+D:\5to ciclo\Aplicaciones moviles multiplataforma\sem8\Lab8_css\Lab8_css\Lab8_css\obj\Debug\netstandard2.0\refint\Lab8_css.dll
+D:\5to ciclo\Aplicaciones moviles multiplataforma\sem8\Lab8_css\Lab8_css\Lab8_css\obj\Debug\netstandard2.0\Lab8_css.pdb
+D:\5to ciclo\Aplicaciones moviles multiplataforma\sem8\Lab8_css\Lab8_css\Lab8_css\obj\Debug\netstandard2.0\ref\Lab8_css.dll
+C:\Users\renlo\OneDrive\Escritorio\LAB8-XAMARIN-master\Lab8_css\Lab8_css\bin\Debug\netstandard2.0\Lab8_css.deps.json
+C:\Users\renlo\OneDrive\Escritorio\LAB8-XAMARIN-master\Lab8_css\Lab8_css\bin\Debug\netstandard2.0\Lab8_css.dll
+C:\Users\renlo\OneDrive\Escritorio\LAB8-XAMARIN-master\Lab8_css\Lab8_css\bin\Debug\netstandard2.0\Lab8_css.pdb
+C:\Users\renlo\OneDrive\Escritorio\LAB8-XAMARIN-master\Lab8_css\Lab8_css\obj\Debug\netstandard2.0\Lab8_css.csproj.AssemblyReference.cache
+C:\Users\renlo\OneDrive\Escritorio\LAB8-XAMARIN-master\Lab8_css\Lab8_css\obj\Debug\netstandard2.0\Lab8_css.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renlo\OneDrive\Escritorio\LAB8-XAMARIN-master\Lab8_css\Lab8_css\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\renlo\OneDrive\Escritorio\LAB8-XAMARIN-master\Lab8_css\Lab8_css\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\renlo\OneDrive\Escritorio\LAB8-XAMARIN-master\Lab8_css\Lab8_css\obj\Debug\netstandard2.0\Styles\Styles.css.g.cs
+C:\Users\renlo\OneDrive\Escritorio\LAB8-XAMARIN-master\Lab8_css\Lab8_css\obj\Debug\netstandard2.0\Lab8_css.AssemblyInfoInputs.cache
+C:\Users\renlo\OneDrive\Escritorio\LAB8-XAMARIN-master\Lab8_css\Lab8_css\obj\Debug\netstandard2.0\Lab8_css.AssemblyInfo.cs
+C:\Users\renlo\OneDrive\Escritorio\LAB8-XAMARIN-master\Lab8_css\Lab8_css\obj\Debug\netstandard2.0\Lab8_css.csproj.CoreCompileInputs.cache
+C:\Users\renlo\OneDrive\Escritorio\LAB8-XAMARIN-master\Lab8_css\Lab8_css\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\renlo\OneDrive\Escritorio\LAB8-XAMARIN-master\Lab8_css\Lab8_css\obj\Debug\netstandard2.0\Lab8_css.dll
+C:\Users\renlo\OneDrive\Escritorio\LAB8-XAMARIN-master\Lab8_css\Lab8_css\obj\Debug\netstandard2.0\refint\Lab8_css.dll
+C:\Users\renlo\OneDrive\Escritorio\LAB8-XAMARIN-master\Lab8_css\Lab8_css\obj\Debug\netstandard2.0\Lab8_css.pdb
+C:\Users\renlo\OneDrive\Escritorio\LAB8-XAMARIN-master\Lab8_css\Lab8_css\obj\Debug\netstandard2.0\ref\Lab8_css.dll
